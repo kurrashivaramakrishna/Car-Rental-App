@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Logs
 logs
 *.log
@@ -22,3 +23,7 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+=======
+# Google App Engine generated folder
+appengine-generated/
+>>>>>>> 9d0d5d32382d5ac0af744ed73538e49c90e0d0b0
