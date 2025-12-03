@@ -131,13 +131,13 @@ export default function Header({ onSearch, userLocation }) {
         <Link to="/signin">Sign In</Link>
         <Link to="/signup">Sign Up</Link>
 
-        <button className="cart-btn">
+        {/* <button className="cart-btn">
           🛒 <span className="cart-count">2</span>
-        </button>
+        </button> */}
 
         <div className="profile-dropdown">
           <img
-            src="https://randomuser.me/api/portraits/men/75.jpg"
+            src="https://shivakrish.onrender.com/images/myprofile.jpg"
             alt="Profile"
           />
           <div className="dropdown-content">
